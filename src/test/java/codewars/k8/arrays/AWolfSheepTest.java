@@ -1,5 +1,6 @@
-package codewars.k8;
+package codewars.k8.arrays;
 
+import codewars.k8.arrays.AWolfSheep;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

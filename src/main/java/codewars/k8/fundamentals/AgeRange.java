@@ -1,4 +1,4 @@
-package codewars.k8;
+package codewars.k8.fundamentals;
 
 /**
  * Age Range Compatibility Equation

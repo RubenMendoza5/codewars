@@ -1,4 +1,4 @@
-package codewars.k8;
+package codewars.k8.bugs;
 
 /**
  * Vasya Pupkin just started learning Java and C#. At first,

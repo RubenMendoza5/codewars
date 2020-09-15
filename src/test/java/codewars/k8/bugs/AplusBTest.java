@@ -1,5 +1,6 @@
-package codewars.k8;
+package codewars.k8.bugs;
 
+import codewars.k8.bugs.AplusB;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

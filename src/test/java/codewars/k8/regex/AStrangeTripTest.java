@@ -1,5 +1,6 @@
-package codewars.k8;
+package codewars.k8.regex;
 
+import codewars.k8.regex.AStrangeTrip;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

@@ -1,4 +1,4 @@
-package codewars.k8;
+package codewars.k8.arrays;
 
 /**
  * Can you find the needle in the haystack?

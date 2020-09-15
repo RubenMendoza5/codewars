@@ -1,5 +1,6 @@
-package codewars.k8;
+package codewars.k8.basiclanguage;
 
+import codewars.k8.basiclanguage.InterpretersHQ9;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

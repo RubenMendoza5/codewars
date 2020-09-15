@@ -1,4 +1,4 @@
-package codewars.k8;
+package codewars.k8.bugs;
 
 /**
  * Your friend has been out shopping for puppies (what a time to be alive!)...

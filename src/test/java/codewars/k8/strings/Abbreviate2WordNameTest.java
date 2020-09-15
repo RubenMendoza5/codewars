@@ -1,5 +1,6 @@
-package codewars.k8;
+package codewars.k8.strings;
 
+import codewars.k8.strings.Abbreviate2WordName;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

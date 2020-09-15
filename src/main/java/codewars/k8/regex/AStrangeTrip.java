@@ -1,4 +1,4 @@
-package codewars.k8;
+package codewars.k8.regex;
 
 /**
  * A Strange Trip to the Market

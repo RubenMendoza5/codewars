@@ -1,4 +1,4 @@
-package codewars.k8;
+package codewars.k8.basiclanguage;
 
 /**
  * You task is to implement an simple interpreter for the notorious esoteric language HQ9+ that will work for a single character input:

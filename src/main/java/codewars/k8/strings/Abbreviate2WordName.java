@@ -1,4 +1,4 @@
-package codewars.k8;
+package codewars.k8.strings;
 
 /**
  * Abbreviate a Two Word Name

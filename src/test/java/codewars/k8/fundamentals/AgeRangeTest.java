@@ -1,5 +1,6 @@
-package codewars.k8;
+package codewars.k8.fundamentals;
 
+import codewars.k8.fundamentals.AgeRange;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
